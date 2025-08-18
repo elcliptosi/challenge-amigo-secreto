@@ -2,7 +2,7 @@
 
 ![Portada del proyecto](assets/portada.png)
 
-Este es un pequeño proyecto web donde puedes escribir los nombres de tus amigos, agregarlos a una lista y luego sortearlos aleatoriamente, ¿quién será tu **amigo secreto**?. ¡reuniones especiales!
+Este es un pequeño proyecto web donde puedes escribir los nombres de tus amigos, agregarlos a una lista y luego sortearlos aleatoriamente, ¿quién será tu **amigo secreto**? ¡ideal para reuniones especiales!
 
 ---
 
